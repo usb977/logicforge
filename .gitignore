@@ -1,0 +1,20 @@
+# C/C++ build artifacts
+a.out
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# CMake build output
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Debug output
+core
+core.*
